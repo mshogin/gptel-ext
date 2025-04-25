@@ -1,0 +1,55 @@
+# Emacs backup files
+*~
+\#*\#
+.\#*
+
+# Emacs autosave files
+*#
+
+# Emacs lock files
+.#*
+
+# Emacs directory variables
+.dir-locals.el
+
+# Emacs auto-save list
+saves/
+
+# Emacs auto-save files
+auto-save-list/
+
+# Emacs package files
+*.elc
+
+# Emacs temporary files
+*.el~
+
+# Emacs project files
+.projectile
+
+# Emacs desktop files
+.emacs.desktop
+
+# Emacs custom files
+custom.el
+
+# Emacs network security
+network-security.data
+
+# Emacs recentf files
+recentf
+
+# Emacs bookmark files
+bookmarks
+
+# Emacs savehist files
+savehist
+
+# Emacs tramp files
+/tramp
+
+# Emacs eshell files
+/eshell/
+
+# Emacs org-mode files
+org-id-locations 
