@@ -20,20 +20,20 @@ This package provides convenient functions for composing prompts and configuring
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/gptel-ext.git
+   git clone https://github.com/mshogin/gptel-ext.git
    ```
 
 2. Add the following to your Emacs configuration:
    ```elisp
    (add-to-list 'load-path "/path/to/gptel-ext")
-   (require 'gpt-ext)
+   (require 'mshogin)
    ```
 
 ### Using straight.el
 
 ```elisp
 (straight-use-package
- '(gptel-ext :type git :host github :repo "yourusername/gptel-ext"))
+ '(gptel-ext :type git :host github :repo "mshogin/gptel-ext"))
 ```
 
 ## Requirements
